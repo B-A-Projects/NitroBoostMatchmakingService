@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBoostMatchmakingService.Web", "NitroBoostMatchmakingService.Web\NitroBoostMatchmakingService.Web.csproj", "{67B91075-B009-48B3-8EEA-EEF3502D3AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBoostMatchmakingService.Core", "NitroBoostMatchmakingService.Core\NitroBoostMatchmakingService.Core.csproj", "{091E1587-ADFC-4DD4-996C-CA3A91703F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBoostMatchmakingService.Data", "NitroBoostMatchmakingService.Data\NitroBoostMatchmakingService.Data.csproj", "{A9AFE3E0-EF1F-45B1-9F05-C70D3B003889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBoostMatchmakingService.Shared", "NitroBoostMatchmakingService.Shared\NitroBoostMatchmakingService.Shared.csproj", "{4D9C8CD4-9C2F-4265-A84A-AE362B6B61D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroBoostMatchmakingService.Test", "NitroBoostMatchmakingService.Test\NitroBoostMatchmakingService.Test.csproj", "{297E7FCF-488D-42A0-8FFC-283234C75F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B91075-B009-48B3-8EEA-EEF3502D3AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B91075-B009-48B3-8EEA-EEF3502D3AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B91075-B009-48B3-8EEA-EEF3502D3AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B91075-B009-48B3-8EEA-EEF3502D3AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091E1587-ADFC-4DD4-996C-CA3A91703F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091E1587-ADFC-4DD4-996C-CA3A91703F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091E1587-ADFC-4DD4-996C-CA3A91703F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091E1587-ADFC-4DD4-996C-CA3A91703F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AFE3E0-EF1F-45B1-9F05-C70D3B003889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AFE3E0-EF1F-45B1-9F05-C70D3B003889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AFE3E0-EF1F-45B1-9F05-C70D3B003889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AFE3E0-EF1F-45B1-9F05-C70D3B003889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9C8CD4-9C2F-4265-A84A-AE362B6B61D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9C8CD4-9C2F-4265-A84A-AE362B6B61D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9C8CD4-9C2F-4265-A84A-AE362B6B61D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9C8CD4-9C2F-4265-A84A-AE362B6B61D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297E7FCF-488D-42A0-8FFC-283234C75F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297E7FCF-488D-42A0-8FFC-283234C75F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297E7FCF-488D-42A0-8FFC-283234C75F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297E7FCF-488D-42A0-8FFC-283234C75F21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
